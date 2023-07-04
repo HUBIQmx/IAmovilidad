@@ -1,14 +1,14 @@
-Repositorio del curso: Inteligencia Artificial & Machine Learning - Aplicaciones en Movilidad
+# Repositorio del curso: Inteligencia Artificial & Machine Learning - Aplicaciones en Movilidad
 
-# Contenido
+## Contenido
 
-## Conceptos básicos
-### Inteligencia artificial
-### Desarrollo histórico
-### Aprendizaje de máquina
+### Conceptos básicos
+#### Inteligencia artificial
+#### Desarrollo histórico
+#### Aprendizaje de máquina
 
-## Aprendizaje Supervisado
+### Aprendizaje Supervisado
 
-## Aprendizaje No Supervisado
+### Aprendizaje No Supervisado
 
-## Retos relacionados con movilidad
+### Retos relacionados con movilidad
