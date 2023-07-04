@@ -25,4 +25,6 @@
 2. Reglas de Asociación
    - Algoritmo Apriori
 
+### Reducción de Dimensionalidad
+
 ### Retos relacionados con movilidad
