@@ -26,5 +26,7 @@
    - Algoritmo Apriori
 
 ### Reducción de Dimensionalidad
+1. Idea General
+2. PCA
 
 ### Retos relacionados con movilidad
